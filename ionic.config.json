@@ -1,0 +1,7 @@
+{
+  "name": "prjTesteGitFlow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
